@@ -1,2 +1,1 @@
-# a very mildly annoying program
- A program that makes typing way harder.
+A program that makes typing literally anything a fun new challenge by opening a neat new tab every couple letters.
